@@ -24,7 +24,7 @@ AI-powered assistant with voice interaction and real-time updates.
 ### 📱 SOS Emergency App  
 Android app for emergency messaging with live location sharing.  
 
-[Explore More Projects](https://github.com/harsrai?tab=repositories)  
+[Explore More Projects]([https://github.com/harsrai1?tab=repositories](https://github.com/harsrai1?tab=repositories))  
 
 ---
 
